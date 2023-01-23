@@ -10,7 +10,7 @@ _placeholder for Table of Contents, in hyperlink format to the actual header, fo
 2. [Assignment Objectives](#objectives)
 
 ### Table of Contents
-1. [Part A - Adding Files - Local Repo Workflow](#part a - adding files - local repo workflow:)
+1. [Part A](#part a)
 2. [Part B - Inspecting Local Repo with `git status` and `git log`](#PartB)
 3. [Part C - Creating & Merging Branches](#PartC)
 4. [Part D - Git Branching Strategy Review Question](PartD)
